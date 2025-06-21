@@ -22,7 +22,7 @@ _Develop code using GitHub Codespaces and Visual Studio Code!_
 
 ## Finish
 
-_Congratulations friend, you've completed this course!_
+_Congratulations friend yeah, you've completed this course!_
 
 <img src="https://octodex.github.com/images/welcometocat.png" alt=celebrate width=300 align=right>
 
